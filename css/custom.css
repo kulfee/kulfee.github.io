@@ -1,0 +1,20 @@
+#mainNav {
+        background-color: white;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    
+}
+
+header.masthead {
+    background-image: url("../assets/img/header_bg.jpg");
+    background-attachment: fixed;
+}
+
+.masthead-overlay {
+    background: rgba(188, 188, 188, 0.641);
+}
+
+
+.team-member img {
+    object-fit: cover;
+}
